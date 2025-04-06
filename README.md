@@ -1,6 +1,6 @@
 # Cat-Dog-Classification
 
-![Cat-Dog DL Classification](demo/gif_demo/demo1.gif)
+![Cat-Dog DL Classification](demo/gif_demo/demo1.gif) 
 
 ## How to Run
 
