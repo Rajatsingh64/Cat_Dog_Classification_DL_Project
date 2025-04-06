@@ -1,5 +1,7 @@
 # Cat-Dog-Classification
 
+![Cat-Dog DL Classification](demo/gif_demo/demo1.gif)
+
 ## How to Run
 
 1. conda create -n catdog python=3.7 -y
