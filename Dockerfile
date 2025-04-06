@@ -10,4 +10,4 @@ RUN apt-get update && apt-get install ffmpeg libsm6 libxext6 unzip -y && pip ins
 EXPOSE 8000
 
 # Use Gunicorn to serve the Flask app
-CMD ["gunicorn", "--bind", "0.0.0.0:8000", "app:app"]
+CMD ["gunicorn", "--bind", "0.0.0.0:8080", "app:app"]
