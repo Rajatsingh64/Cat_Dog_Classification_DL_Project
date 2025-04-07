@@ -6,7 +6,7 @@ logs
 log
 infrastructure
 docs
-sensor.egg-info
+*.egg-info/
 LICENSE
 README.md
 notebooks
